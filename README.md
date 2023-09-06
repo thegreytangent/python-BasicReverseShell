@@ -8,3 +8,6 @@ A reverse shell is a type of shell in which the target machine initiates a conne
 
 ## Purpose of the Program
 The purpose of this program is to provide a basic and educational example of how a reverse shell can be implemented in Python. It is essential to note that this code is meant for educational purposes only and should not be used for malicious activities. Understanding how reverse shells work is crucial for defending against potential cyber threats.
+
+## Support
+For any questions, issues, or feedback, please reach out to me at [thegreytangent@gmail.com].
